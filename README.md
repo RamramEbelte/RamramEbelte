@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamramEbelte
+- 👋 Hi, I’m @Ramram
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... phyton programming
 - 💞️ I’m looking to collaborate on ... the programmers
